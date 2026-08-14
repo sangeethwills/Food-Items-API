@@ -1,0 +1,53 @@
+{
+  "fooditems": [
+    {
+      "itemname": "Pizza",
+      "itemdescription": "Cheesy vegetable pizza with fresh toppings with delicious",
+      "itemprice": "764",
+      "id": "1"
+    },
+    {
+      "itemname": "Burger",
+      "itemdescription": "Grilled chicken burger with lettuce and cheese",
+      "itemprice": "200",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "itemname": "Biryani",
+      "itemdescription": "Aromatic chicken biryani served with raita",
+      "itemprice": 249
+    },
+    {
+      "id": "4",
+      "itemname": "Dosa",
+      "itemdescription": "Crispy masala dosa served with chutney and sambar",
+      "itemprice": 120
+    },
+    {
+      "id": "5",
+      "itemname": "Ice Cream",
+      "itemdescription": "Vanilla ice cream topped with chocolate syrup",
+      "itemprice": 99
+    },
+    {
+      "itemname": "Briyani",
+      "itemdescription": "Delicious",
+      "itemprice": 8877,
+      "id": "7"
+    },
+    {
+      "itemname": "Showrama ",
+      "itemdescription": "Chicken with myoneese",
+      "itemprice": 908,
+      "id": "iA0-lLK3SLU"
+    },
+    {
+      "itemname": "idly",
+      "itemdescription": "rice cake ",
+      "itemprice": 30,
+      "id": "M92BiTEsoQM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
